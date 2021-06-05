@@ -58,7 +58,7 @@ x(1:L)=1;                                                                 % Impu
 
 trasf_prod=@(x) W*x;
 
-t1=timeit(@() fft(x1,N))
+t1=timeit(@() fft(x1))
 t2=timeit(@() trasf_prod(x))
 
 
