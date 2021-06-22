@@ -1,0 +1,1 @@
+# Filtraggio immagini a colori
