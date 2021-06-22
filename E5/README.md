@@ -1,1 +1,0 @@
-# Rappresentazione nel dominio della frequenza
