@@ -1,1 +1,0 @@
-# Elaborazione del dominio della frequenza
